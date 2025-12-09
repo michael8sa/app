@@ -1,6 +1,6 @@
 ## Tic-Tac-Toe Game (Java Terminal)
 
-This is a simple two-player Tic-Tac-Toe game written in Java.
+This is a simple two-player Tic-Tac-Toe game written in Java using only System.out.println and the terminal.
 Players take turns entering the row and column (1–3) to place X or O on the board.
 
 ## How to Compile and Run
